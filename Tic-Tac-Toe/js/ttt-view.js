@@ -35,7 +35,6 @@ class View {
       } else {
         alert("Cat's Game!");
       }
-      
     }
   }
 
